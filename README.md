@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on https://cfx.re/
 ## 
 
-![LakishaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakishaDev&theme=tokyonight)
+![LakishaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakishaDev&theme=tokyonight?count_private=true)
 
 ![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=cobalt)
