@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakishaDev)]
+[LakishaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakishaDev)
 
 - 🔭 I’m currently working on FiveM
 - 🌱 I’m currently learning C#
