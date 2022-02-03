@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=cobalt)(https://github-readme-stats.vercel.app/api?username=LakishaDev&theme=tokyonight)
+![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=cobalt https://github-readme-stats.vercel.app/api?username=LakishaDev&theme=tokyonight)
+
+![LakishaDev's GitHub stats]
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=LakijevaRakijica&theme=tokyonight)
 - 🔭 I’m currently working on FiveM
