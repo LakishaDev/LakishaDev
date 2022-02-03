@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=tokyonight)
 
 ![LakishaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakishaDev&theme=tokyonight)
 
