@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently making web sites
+- 🔭 I’m currently making websites
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on https://fivem.net/
 ## 
