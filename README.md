@@ -30,8 +30,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
   </picture>
 
-  <a href="https://github.com/LakishaDev/eVagaMobile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=eVagaMobile&theme=dark" />
-  </a>
-
 </div>
+
+## Fav Repos
+<a href="https://github.com/LakishaDev/eVagaMobile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=eVagaMobile&theme=dark" />
+</a>
