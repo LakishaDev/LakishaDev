@@ -4,7 +4,8 @@
 - 💻 I’m Software Developer @ [Vaga Beta Lab](https://www.vagabeta.rs/) | Full stack developer
 
 ## Stats
-<p align="center">
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark"
@@ -28,4 +29,5 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
   </picture>
-</p>
+
+</div>
