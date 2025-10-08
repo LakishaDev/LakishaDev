@@ -34,5 +34,5 @@
 
 ## Fav Repos
 <a href="https://github.com/LakishaDev/eVagaMobile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=eVagaMobile&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=vaga-beta-react&theme=dark" />
 </a>
