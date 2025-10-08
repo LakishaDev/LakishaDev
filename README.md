@@ -34,10 +34,14 @@
 
 ## Fav Repos
 <div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
-  <a href="https://github.com/LakishaDev/vaga-beta-react">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=vaga-beta-react&theme=dark" />
-  </a>
-  <a href="https://github.com/LakishaDev/eVagaMobile">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=eVagaMobile&theme=dark" />
-  </a>
+  <picture>
+    <a href="https://github.com/LakishaDev/vaga-beta-react">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=vaga-beta-react&theme=dark" />
+    </a>
+  </picture>
+  <picture>
+    <a href="https://github.com/LakishaDev/eVagaMobile">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LakishaDev&repo=eVagaMobile&theme=dark" />
+    </a>
+  </picture>
 </div>
