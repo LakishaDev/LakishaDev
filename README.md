@@ -84,7 +84,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakishadev/)
 [![Website](https://img.shields.io/badge/-Vaga%20Beta-FF6B6B?style=flat-square&logo=web&logoColor=white)](https://www.vagabeta.rs/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@elfak.rs)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazar.cvetanovic@elfak.rs)
 
 ---
 
