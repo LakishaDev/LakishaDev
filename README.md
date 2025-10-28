@@ -44,7 +44,6 @@ Specializing in Web Development, PCB Design & Hardware-Software Integration
     />
     <img src="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true" height="180em" />
   </picture>
-  
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
