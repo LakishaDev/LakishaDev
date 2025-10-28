@@ -1,48 +1,38 @@
 ## Hi there 👋
 
-- 🎓 Electronics Student @ University of Niš, [Faculty of Electronic Engineering](https://www.elfak.ni.ac.rs/)
-- 💻 Full Stack Developer @ [Vaga Beta Lab](https://www.vagabeta.rs/)
-- ⚡ Passionate about Web Development, Electronics Design & E-commerce Solutions
-- 🔧 Currently building React-based e-commerce platforms with Firebase integration
+**Electronics Student** @ University of Niš, [Faculty of Electronic Engineering](https://www.elfak.ni.ac.rs/)  
+**Full Stack Developer** @ [Vaga Beta Lab](https://www.vagabeta.rs/)
 
-## 🚀 What I'm Working On
+Specializing in Web Development, PCB Design & Hardware-Software Integration
 
-- **Vaga Beta Platform**: Advanced React e-commerce application with Firebase backend
-- **Electronics Projects**: PCB design using Altium Designer Pro
-- **Smart Weighing Systems**: Integrating hardware with software solutions
+## 🚀 Active Projects
+
+### 💻 Software Development
+- **[vaga-beta-react](https://github.com/LakishaDev/vaga-beta-react)** - Advanced React e-commerce platform with Firebase backend
+- **[eVagaDesktop](https://github.com/LakishaDev/eVagaDesktop)** - Desktop application for weighing system management (C#/.NET)
+- **[eVagaMobile](https://github.com/LakishaDev/eVagaMobile)** - Mobile companion app for smart weighing systems
+
+### ⚡ Hardware Design
+- **[eVagaModule](https://github.com/LakishaDev/eVagaModule)** - Professional PCB design for smart weighing modules (Altium Designer)
 
 ## 💻 Tech Stack
 
-### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Backend & Database
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
+## 🎯 Expertise
 
-## 🎯 Specializations
-
-- **E-commerce Development**: Full-stack solutions with advanced cart systems and user authentication
-- **Firebase Integration**: Authentication, Firestore, Storage, and App Check implementation
-- **PCB Design**: Professional PCB development using Altium Designer
-- **Responsive Design**: Mobile-first approach with smooth animations and modern UI/UX
-- **Hardware-Software Integration**: Connecting weighing systems with web applications
+**Full Stack Development** | **PCB Design** | **E-commerce Solutions** | **Hardware-Software Integration**
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
-
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117"
@@ -54,7 +44,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true" height="180em" />
   </picture>
-
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
@@ -66,19 +55,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
   </picture>
-
 </div>
-
-## 🏆 Featured Projects
-
-### 🛒 Vaga Beta E-commerce Platform
-- **Tech Stack**: React, Firebase, Tailwind CSS, Vite
-- **Features**: Advanced cart system, user authentication, product management, responsive design
-- **Highlights**: Smooth animations, progressive image loading, admin panel
-
-### ⚖️ Smart Weighing Systems
-- **Integration**: Hardware weighing scales with software solutions
-- **Applications**: Industrial and educational measurement systems
 
 ## 📫 Let's Connect
 
