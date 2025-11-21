@@ -5,6 +5,36 @@
 - ⚡ Passionate about Web Development, Electronics Design & E-commerce Solutions
 - 🔧 Currently building React-based e-commerce platforms with Firebase integration
 
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true" height="180em" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
+  </picture>
+
+</div>
+
 ## 🚀 What I'm Working On
 
 - **Vaga Beta Platform**: Advanced React e-commerce application with Firebase backend
@@ -38,36 +68,6 @@
 - **PCB Design**: Professional PCB development using Altium Designer
 - **Responsive Design**: Mobile-first approach with smooth animations and modern UI/UX
 - **Hardware-Software Integration**: Connecting weighing systems with web applications
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true" height="180em" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
-  </picture>
-
-</div>
 
 ## 🏆 Featured Projects
 
