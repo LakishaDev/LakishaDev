@@ -41,6 +41,25 @@
 - **Electronics Projects**: PCB design using Altium Designer Pro
 - **Smart Weighing Systems**: Integrating hardware with software solutions
 
+## 🎯 Specializations
+
+- **E-commerce Development**: Full-stack solutions with advanced cart systems and user authentication
+- **Firebase Integration**: Authentication, Firestore, Storage, and App Check implementation
+- **PCB Design**: Professional PCB development using Altium Designer
+- **Responsive Design**: Mobile-first approach with smooth animations and modern UI/UX
+- **Hardware-Software Integration**: Connecting weighing systems with web applications
+
+## 🏆 Featured Projects
+
+### 🛒 Vaga Beta E-commerce Platform
+- **Tech Stack**: React, Firebase, Tailwind CSS, Vite
+- **Features**: Advanced cart system, user authentication, product management, responsive design
+- **Highlights**: Smooth animations, progressive image loading, admin panel
+
+### ⚖️ Smart Weighing Systems
+- **Integration**: Hardware weighing scales with software solutions
+- **Applications**: Industrial and educational measurement systems
+
 ## 💻 Tech Stack
 
 ### Frontend
@@ -60,25 +79,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
-
-## 🎯 Specializations
-
-- **E-commerce Development**: Full-stack solutions with advanced cart systems and user authentication
-- **Firebase Integration**: Authentication, Firestore, Storage, and App Check implementation
-- **PCB Design**: Professional PCB development using Altium Designer
-- **Responsive Design**: Mobile-first approach with smooth animations and modern UI/UX
-- **Hardware-Software Integration**: Connecting weighing systems with web applications
-
-## 🏆 Featured Projects
-
-### 🛒 Vaga Beta E-commerce Platform
-- **Tech Stack**: React, Firebase, Tailwind CSS, Vite
-- **Features**: Advanced cart system, user authentication, product management, responsive design
-- **Highlights**: Smooth animations, progressive image loading, admin panel
-
-### ⚖️ Smart Weighing Systems
-- **Integration**: Hardware weighing scales with software solutions
-- **Applications**: Industrial and educational measurement systems
 
 ## 📫 Let's Connect
 
