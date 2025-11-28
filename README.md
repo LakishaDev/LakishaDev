@@ -60,6 +60,13 @@
 - **Integration**: Hardware weighing scales with software solutions
 - **Applications**: Industrial and educational measurement systems
 
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakishadev/)
+[![Website](https://img.shields.io/badge/-Vaga%20Beta-FF6B6B?style=flat-square&logo=web&logoColor=white)](https://www.vagabeta.rs/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazar.cvetanovic@elfak.rs)
+
+
 ## 💻 Tech Stack
 
 ### Frontend
@@ -79,12 +86,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakishadev/)
-[![Website](https://img.shields.io/badge/-Vaga%20Beta-FF6B6B?style=flat-square&logo=web&logoColor=white)](https://www.vagabeta.rs/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazar.cvetanovic@elfak.rs)
 
 ---
 
