@@ -4,7 +4,7 @@
 - 💻 Full Stack Developer @ [Vaga Beta Lab](https://www.vagabeta.rs/)
 - ⚡ Passionate about Web Development, Electronics Design & E-commerce Solutions
 - 🔧 Currently building React-based e-commerce platforms with Firebase integration
-- 
+  
 ## 🚀 What I'm Working On
 
 - **Vaga Beta Platform**: Advanced React e-commerce application with Firebase backend
