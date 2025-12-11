@@ -58,6 +58,7 @@
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
 
 ## 📊 GitHub Stats
+### Coming soon..
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
 
