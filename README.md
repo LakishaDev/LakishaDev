@@ -87,5 +87,3 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
 
-
-⭐️ From [LakishaDev](https://github.com/LakishaDev)
