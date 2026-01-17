@@ -4,36 +4,6 @@
 - 💻 Full Stack Developer @ [Vaga Beta Lab](https://www.vagabeta.rs/)
 - ⚡ Passionate about Web Development, Electronics Design & E-commerce Solutions
 - 🔧 Currently building React-based e-commerce platforms with Firebase integration
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true" height="180em" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
-  </picture>
-
-</div>
   
 ## 🚀 What I'm Working On
 
@@ -86,4 +56,34 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true" height="180em" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
+  </picture>
+
+</div>
 
