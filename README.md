@@ -42,7 +42,7 @@
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact" height="360em" />
   </picture>
 
 </div>
