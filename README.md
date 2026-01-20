@@ -33,6 +33,18 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakishaDev&layout=compact" height="180em" />
   </picture>
 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact" height="180em" />
+  </picture>
+
 </div>
   
 ## 🚀 What I'm Working On
