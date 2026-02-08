@@ -1,4 +1,4 @@
-## ABOUT ME #
+### ABOUT ME
 - 🎓 Electronics Student @ University of Niš, [Faculty of Electronic Engineering](https://www.elfak.ni.ac.rs/)
 - 💻 Full Stack Developer @ [Vaga Beta Lab](https://www.vagabeta.rs/)
 - ⚡ Passionate about Web Development, Electronics Design & E-commerce Solutions
@@ -6,7 +6,7 @@
 
 
   
-## 🚀 What I'm Working On
+### 🚀 What I'm Working On
 
 - **Vaga Beta Platform**: Advanced React e-commerce application with Firebase backend
 - **Electronics Projects**: PCB design using Altium Designer Pro
@@ -58,7 +58,7 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
 
