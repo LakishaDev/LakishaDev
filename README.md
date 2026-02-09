@@ -6,7 +6,7 @@
 
 
   
-### 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
 - **Vaga Beta Platform**: Advanced React e-commerce application with Firebase backend
 - **Electronics Projects**: PCB design using Altium Designer Pro
@@ -22,7 +22,7 @@
 
 ## 🏆 Featured Projects
 
-### 🛒 Vaga Beta E-commerce Platform
+## 🛒 Vaga Beta E-commerce Platform
 - **Tech Stack**: React, Firebase, Tailwind CSS, Vite
 - **Features**: Advanced cart system, user authentication, product management, responsive design
 - **Highlights**: Smooth animations, progressive image loading, admin panel
