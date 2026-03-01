@@ -58,7 +58,7 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
 
