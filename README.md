@@ -1,10 +1,8 @@
 ## ABOUT ME
 - 🎓 Electronics Student @ University of Niš, [Faculty of Electronic Engineering](https://www.elfak.ni.ac.rs/)
-- 💻 Full Stack Developer @ [Vaga Beta Lab](https://www.vagabeta.rs/)
+- 💻 Full Stack Developer @ [Vaga Beta](https://www.vagabeta.rs/)
 - ⚡ Passionate about Web Development, Electronics Design & E-commerce Solutions
 - 🔧 Currently building React-based e-commerce platforms with Firebase integration
-
-
   
 ## 🚀 What I'm Working On
 
@@ -87,5 +85,4 @@
   </picture>
 
 </div>
-###
 
