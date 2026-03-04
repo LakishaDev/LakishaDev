@@ -36,7 +36,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazar.cvetanovic@elfak.rs)
 
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
