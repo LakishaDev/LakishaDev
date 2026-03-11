@@ -58,11 +58,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117"
+      srcset="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=1e2a3b"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -72,17 +72,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=LakishaDev&show_icons=true&count_private=true" height="180em" />
   </picture>
 
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact&theme=dark&hide_border=true&bg_color=1e2a3b"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact" height="180em" />
-  </picture>
-
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LakishaDev&layout=compact" height="500em" />
+</picture>
 
