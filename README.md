@@ -7,7 +7,7 @@
 ## 🚀 What I'm Working On
 
 - **Radar Puls**: Community Traffic Reporting Platform [radarpuls.com](https://radarpuls.com)
-- **Vaga Beta Platform**: Advanced React e-commerce application with Firebase backend
+- **Vaga Beta Platform**: Advanced React e-commerce application with Firebase backend [vagabeta.rs](https://vagabeta.rs/prodavnica/proizvodi)
 - **Electronics Projects**: PCB design using Altium Designer Pro
 - **Smart Weighing Systems**: Integrating hardware with software solutions
 
