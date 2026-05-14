@@ -1,4 +1,4 @@
-## ABOUT ME
+# ABOUT ME
 - 🎓 Electronics Student @ University of Niš, [Faculty of Electronic Engineering](https://www.elfak.ni.ac.rs/)
 - 💻 Full Stack Developer @ [Vaga Beta](https://www.vagabeta.rs/)
 - ⚡ Passionate about Web Development, Electronics Design & E-commerce Solutions
