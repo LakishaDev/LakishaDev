@@ -23,7 +23,7 @@
 - **Responsive Design**: Mobile-first approach with smooth animations and modern UI/UX
 - **Hardware-Software Integration**: Connecting weighing systems with web applications
 
-# 🏆 Featured Projects
+### 🏆 Featured Projects
 
 ## 🛒 Vaga Beta E-commerce Platform
 
