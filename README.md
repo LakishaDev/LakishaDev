@@ -1,4 +1,4 @@
-### ABOUT ME
+## ABOUT ME
 
 - 💻 CTO @ [Vaga Beta](https://www.vagabeta.rs/)
 
