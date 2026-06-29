@@ -1,6 +1,6 @@
-## ABOUT ME
+# ABOUT ME
 
-- 💻 CTO @ [Vaga Beta](https://www.vagabeta.rs/)
+- 💻 **Chief Technology Officer** @ [Vaga Beta](https://www.vagabeta.rs/)
 
 ## 🚀 What I'm Working On
 
