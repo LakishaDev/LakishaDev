@@ -1,4 +1,4 @@
-## ABOUT ME
+# ABOUT ME
 
 - 💻 **Chief Technology Officer** @ [Vaga Beta](https://www.vagabeta.rs/)
 
